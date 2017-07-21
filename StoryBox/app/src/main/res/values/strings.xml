@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StoryBox</string>
+    <string name="cloud_resoures">Cloud Resources</string>
+    <string name="music_list">Device List</string>
+</resources>

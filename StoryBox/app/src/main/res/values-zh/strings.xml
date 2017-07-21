@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">故事机</string>
+    <string name="cloud_resoures">云端资源</string>
+    <string name="music_list">设备列表</string>
+</resources>
